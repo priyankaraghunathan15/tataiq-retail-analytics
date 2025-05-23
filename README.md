@@ -4,6 +4,9 @@ This project was completed as part of the **Tata Insights and Quants (Tata iQ) V
 
 I applied **Tableau** to explore, analyze, and visualize sales and customer data for an online retail store, generating strategic insights for both the **CEO** and **CMO**.
 
+<p align="center">
+  <img src="images/tata.png" alt="Tata Logo" width="550"/>
+</p>
 ---
 
 ## 📊 Project Overview
