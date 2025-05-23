@@ -26,7 +26,7 @@ This experience not only sharpened my technical and analytical thinking but also
 ## 🧠 Project Tasks
 
 ### Task 1: Framing the Business Scenario
-I developed eight stakeholder-specific questions—four for the CEO and four for the CMO—based on the business’s expansion and revenue goals. These questions covered:
+I developed eight stakeholder-specific questions,four for the CEO and four for the CMO based on the business’s expansion and revenue goals. These questions covered:
 
 - Seasonal revenue fluctuations  
 - Top-performing countries and customer segments  
