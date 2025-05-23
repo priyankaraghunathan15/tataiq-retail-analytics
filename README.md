@@ -7,6 +7,7 @@ I applied **Tableau** to explore, analyze, and visualize sales and customer data
 <p align="center">
   <img src="images/tata.png" alt="Tata Logo" width="700"/>
 </p>
+
 ---
 
 ## 📊 Project Overview
