@@ -25,7 +25,7 @@ This experience not only sharpened my technical and analytical thinking but also
 
 ## 🧠 Project Tasks
 
-### ✅ Task 1: Framing the Business Scenario
+### Task 1: Framing the Business Scenario
 I developed eight stakeholder-specific questions—four for the CEO and four for the CMO—based on the business’s expansion and revenue goals. These questions covered:
 
 - Seasonal revenue fluctuations  
@@ -37,7 +37,7 @@ The framing ensured that all subsequent analysis aligned directly with leadershi
 
 ---
 
-### ✅ Task 2: Choosing the Right Visuals
+### Task 2: Choosing the Right Visuals
 Mapped each business question to a carefully selected Tableau visual type:
 
 - **Line Chart** – Seasonal revenue trends for forecasting  
@@ -50,7 +50,7 @@ Each visual was selected based on its ability to simplify complex patterns and s
 
 ---
 
-### ✅ Task 3: Creating Effective Visuals
+### Task 3: Creating Effective Visuals
 Using Tableau, I transformed raw transactional data into clean, purpose-built dashboards. Key steps included:
 
 - Removing negative quantities and zero-price entries  
@@ -62,7 +62,7 @@ Visuals were designed with clarity, insight delivery, and stakeholder priorities
 
 ---
 
-### ✅ Task 4: Communicating Insights
+### Task 4: Communicating Insights
 To conclude, I delivered a five-minute executive briefing simulating a presentation to the CEO and CMO. The script emphasized:
 
 - **Monthly Revenue Trends** – A Q4 spike indicating seasonal sales opportunities  
