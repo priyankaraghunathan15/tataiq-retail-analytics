@@ -10,7 +10,7 @@ I applied **Tableau** to explore, analyze, and visualize sales and customer data
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 The retail business wanted to evaluate key performance drivers and identify high-potential areas for strategic expansion. As the data analyst, I was tasked with:
 
@@ -23,7 +23,7 @@ This experience not only sharpened my technical and analytical thinking but also
 
 ---
 
-## 🧠 Project Tasks
+## Project Tasks
 
 ### Task 1: Framing the Business Scenario
 I developed eight stakeholder-specific questions,four for the CEO and four for the CMO based on the business’s expansion and revenue goals. These questions covered:
@@ -74,13 +74,13 @@ To conclude, I delivered a five-minute executive briefing simulating a presentat
 
 ---
 
-## 📜 Certificate
+## Certificate
 
 Successfully completed and certified by **Tata Insights and Quants**, demonstrating proficiency in business-oriented data storytelling and Tableau-based analytics.
 
 ---
 
-## 🧾 Key Business Takeaways
+## Key Business Takeaways
 
 - Revenue patterns exhibit **strong seasonality**, with Q4 being a major opportunity  
 - Countries like **Netherlands** and **Germany** present high-value expansion targets  
